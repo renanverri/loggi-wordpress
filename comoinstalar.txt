@@ -1,0 +1,15 @@
+Plugin de cotação de frete via Motoboy para Woocommerce
+Da Loggi.com
+
+Desenvolvido por Renan Verri
+Suporte renan@dizaboa.com
+
+Dicas de instalação >
+
+Basta enviar o plugin, Ativar ir em configurações 
+Confis Loggi ->
+
+Preencher com API  da loggi.com  
+Cidade de origem, Cep de origem, email e senha da Loggi.com 
+
+Qualquer duvida darei suporte na finalização da compra. 
