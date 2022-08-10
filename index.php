@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Plugin de cotação Loggi
- * Plugin URI:  https://www.dizaboa.com
+ * Plugin URI:  https://www.linkedin.com/in/renan-verri/
  * Description: Integração da Loggi
  * Author:      Renan Verri
- * Author URI:  https://www.dizaboa.com
+ * Author URI:  https://www.linkedin.com/in/renan-verri/
  * Version:     1.0
  * Text Domain: loggi-verri
  * Domain Path: /languages
